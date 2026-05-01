@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/luxora-promotional-email.html"
+    }
+  ]
+}
